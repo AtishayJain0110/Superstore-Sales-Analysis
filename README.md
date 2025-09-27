@@ -29,8 +29,7 @@ The business needs to understand:
 ---
 
 ## 📸 Screenshots
-![KPI Dashboard](./Dashboard_Screenshots/KPI_Dashboard.png)
-![Sales by Region](./Dashboard_Screenshots/Sales_By_Region.png)
+[Dashboard](https://github.com/AtishayJain0110/Superstore-Sales-Analysis/blob/main/Screenshot%202025-09-27%20224905.png)
 
 ---
 
